@@ -79,9 +79,9 @@ console.log(total);
 //Here, `name`, `age`, and `gender` are properties of the `person` object.
 
 //2. **Key and Value:**
-   - In the context of objects, a key is the identifier used to access a value.
-   - The combination of a key and its corresponding value is known as a key-value pair.
-   - Example:
+//   - In the context of objects, a key is the identifier used to access a value.
+//- The combination of a key and its corresponding value is known as a key-value pair.
+//- Example:
 
      var person = {
        name: 'John',   // "name" is the key, 'John' is the value
@@ -89,8 +89,8 @@ console.log(total);
      };
 
 //3. **Method:**
-   - A method is a function that is a property of an object.
-   - Example:
+//- A method is a function that is a property of an object.
+//- Example:
 
      var person = {
        name: 'John',
@@ -128,7 +128,7 @@ console.log(total);
 
 //Here, `x` and `y` are parameters that receive the values 4 and 6 as arguments. The result would be 24.
 
-/In JavaScript, instantiation refers to the process of creating a new instance or copy of an object. An object is a collection of key-value pairs, and when you instantiate an object, you essentially create a specific occurrence of that object with its own unique set of values./
+//In JavaScript, instantiation refers to the process of creating a new instance or copy of an //object. An object is a collection of key-value pairs, and when you instantiate an object, you //essentially create a specific occurrence of that object with its own unique set of values.
 
 //Here's a simple example using a constructor function:
 
