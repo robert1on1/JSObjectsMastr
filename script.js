@@ -55,7 +55,6 @@ function Challenge (age, first, color){
 const Person = new Challenge(34, "Peter", "brown");
 console.log(Person); 
 
-
 // Differences between the use of "let" & "const"
 //Const cannot be reassigned
 //let can be reassigned
